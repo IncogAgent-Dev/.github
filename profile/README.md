@@ -1,4 +1,4 @@
-# Welcome to IncogAgent™ Team
+# Welcome to [IncogAgent™](https://incogagent-dev.github.io/) Team
 
 <div align="center">
   <em>Building the privacy layer for the GenAI era.</em>
@@ -21,9 +21,3 @@ Our team is currently developing a **local-first data masking middleware**. We a
 ## 🚀 Our Project
 
 - **[IncogAgent Mail](https://github.com/IncogAgent-Dev/IncogAgent-Mail):** AI-powered privacy guardian for Gmail (Open Source Edition).
-
----
-
-<div align="center">
-  <em>Secure the Prompt. Unleash the Agent.</em>
-</div>
