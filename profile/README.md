@@ -1,23 +1,55 @@
-# Welcome to [IncogAgent™](https://incogagent-dev.github.io/) Team
+# 🛡️ IncogAgent™
 
-<div align="center">
-  <em>Building the privacy layer for the GenAI era.</em>
-</div>
+**Building the privacy layer for the GenAI era.**
+
+We believe powerful AI and personal privacy should go hand in hand.
+
+**IncogAgent** is a student-led team developing privacy-preserving tools that make cloud-based AI services safer and more accessible. Our work bridges **cybersecurity, natural language processing, and applied AI**, with a focus on protecting sensitive information without compromising usability.
 
 ---
 
-## 🛡️ Who We Are
+## 🎯 What We Do
 
-We are a team of four Computer Science undergraduates from **Duke University** and **DKU**. 
+As large language models (LLMs) become increasingly integrated into everyday applications, protecting user data is more important than ever.
 
-United by a shared passion for cybersecurity, natural language processing, and ethical AI, we are focused on bridging the gap between powerful cloud-based LLMs and strict user data privacy.
+Our focus is on **local-first privacy middleware** that minimizes the exposure of Personally Identifiable Information (PII) during interactions with cloud-based AI systems.
 
-## 🎯 Our Focus: The Privacy Paradox
+Our approach follows three core steps:
 
-In an era where AI agents are becoming deeply integrated into our daily workflows, data privacy remains a critical bottleneck. We believe that users should never have to trade their Personally Identifiable Information (PII) for AI-driven productivity.
+1. **Detect & Mask** — Identify and replace sensitive information locally, before it is transmitted to an AI service.
+2. **Process Securely** — Enable cloud-based LLMs to operate on sanitized content instead of raw personal identifiers.
+3. **Restore Locally** — Reconstruct the original context on-device, preserving the usefulness of AI-generated responses.
 
-Our team is currently developing a **local-first data masking middleware**. We are exploring architectures that can intelligently intercept, sanitize, and reconstruct sensitive contexts entirely on-device, ensuring that your secrets never reach the cloud.
+By keeping sensitive-data processing on the user's device, we aim to make privacy a built-in feature of AI workflows rather than an afterthought.
 
-## 🚀 Our Project
+## 🚀 Featured Project
 
-- **[IncogAgent Mail](https://github.com/IncogAgent-Dev/IncogAgent-Mail):** AI-powered privacy guardian for Gmail (Open Source Edition).
+### [IncogAgent Mail](https://github.com/IncogAgent-Dev/IncogAgent-Mail)
+
+**Privacy-conscious AI email summarization for Gmail.**
+
+An open-source Chrome extension that combines AI-powered email summarization with local PII masking and context restoration.
+
+- **Local-First Masking:** Detects and replaces personal identifiers directly in the browser.
+- **AI-Powered Summarization:** Generates concise summaries of Gmail conversations using sanitized text.
+- **On-Device Restoration:** Restores masked identifiers locally to preserve meaningful context.
+- **Open Source:** Publicly available under the MIT License.
+
+[**GitHub Repository**](https://github.com/IncogAgent-Dev/IncogAgent-Mail) · [**Project Website**](https://incogagent-dev.github.io/#/mail)
+
+---
+
+## 👥 Meet the Team
+
+We are four Computer Science undergraduates from **Duke University and DKU**, brought together by a shared interest in building trustworthy, privacy-conscious AI systems.
+
+- [Jietong Zhou](https://github.com/AAAGUAI31)
+- [Yifan Xu](https://github.com/yxu-dev)
+- [Yihang Zou](https://github.com/Bbbxdjc)
+- [Yuchu Guo](https://github.com/williamguo34)
+
+---
+
+**Privacy by design. Intelligence without unnecessary exposure.**
+
+🌐 [Visit Our Website](https://incogagent-dev.github.io/)
